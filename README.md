@@ -33,7 +33,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/arthur-sandrini-4a6474302/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"  height="30"/>
-     <p>  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"  height="30">arthsandrini@gmail.com </p>
+     <p>  <img src = "gmail.png" width = "20px"> arthsandrini@gmail.com </p>
 </a>
 </p>
   
