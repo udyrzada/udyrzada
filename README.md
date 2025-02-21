@@ -1,6 +1,5 @@
-## Engualzinho eu 👇
+<div align="center">
+  --> Engualzinho eu 👇 <--
 
-<p align="center">
   <img src="giphy.gif" width="300px" margin="50">
-</p>
-
+</div>
