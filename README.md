@@ -1,3 +1,6 @@
 ## Engualzinho eu 👇
 
-<img src="giphy.gif" width="300px" align-content="center">
+<p align="center">
+  <img src="giphy.gif" width="300px">
+</p>
+
