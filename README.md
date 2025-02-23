@@ -11,6 +11,7 @@
 <h1> Sobre mim: </h1> 
 
 - Me chamo Arthur Sandrini.
+- 📍 Sou de Cachoeiro de Itapemirim, ES.
 - <img src = "IFES.png" width = "20px" >  Estudante do IFES, cursando Sistemas de Informação.
 - 📈 Disposto ao aprendizado e focado no desenvolvimento.
 
