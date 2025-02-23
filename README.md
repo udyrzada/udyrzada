@@ -25,10 +25,10 @@
 </div>
 
 ## Estatísticas do GitHub 📊
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Udyrzada&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Udyrzada&show_icons=true&show_icons=true&theme=github_dark&count_private=true" />
 
 ## Linguagens Mais Usadas
-<img height = "300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udyrzada&show_icons=true&theme=bear&count_private=true"/>
+<img height = "300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udyrzada&show_icons=true&theme=github_dark&count_private=true"/>
 
 ## Contato em:
 <p align="left">
