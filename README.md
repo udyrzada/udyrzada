@@ -36,7 +36,7 @@
 
 ## Estatísticas do GitHub 📊
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Udyrzada&show_icons=true&theme=github_dark&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udyrzada&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=36BCF7&text_color=71D0F9&icon_color=36BCF7&border_color=FFFFFF"/>
 
 
 ## Contato
