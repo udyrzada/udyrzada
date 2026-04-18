@@ -16,7 +16,7 @@
 - Me chamo Arthur Sandrini.
 - 📍 Sou de Cachoeiro de Itapemirim, ES.
 - <img src="IFES.png" width="20px"> Técnico em informática pelo IFES e atualmente cursando Sistemas de Informação (IFES).
-- 💻 Atualmente atuo com foco em desenvolvimento backend com Python.
+- 👩🏻‍💻 Atualmente atuo com foco em desenvolvimento backend com Python.
 - 🦾 Estou sempre em busca de aprendizado e evolução na área de tecnologia.
 
 ## Tecnologias e ferramentas
