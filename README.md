@@ -18,7 +18,6 @@
 - <img src="IFES.png" width="20px"> Técnico em informática e atualmente cursando Sistemas de Informação no Ifes (previsão de conclusão em 2027).
 - 👩🏻‍💻 Atuo como desenvolvedor Python / Dados (bolsista Fapes) no projeto **IntegraCAR**, do Ifes em parceria com o Idaf, com foco em IA aplicada e extração de documentos.
 - 🚀 Fundador do **IdentMiner**, projeto aprovado no Programa Gênesis (FAPES) para identificação de rochas ornamentais por imagem.
-- 📄 Coautor de artigos no ISLA 2026 e no Latinoware 2026.
 - 🦾 Estou sempre em busca de aprendizado e evolução na área de tecnologia.
 
 ## Tecnologias e ferramentas
@@ -58,13 +57,12 @@ Pipeline de IA para extração estruturada de documentos do Cadastro Ambiental R
 - Projeto selecionado no Edital FAPES nº 09/2025 (Programa Gênesis)
 
 ### Em foco
-
-- Desenvolvimento backend com Python
-- Consumo e integração com APIs
-- Automação de processos
-- Processamento de documentos e imagens
-- OCR e manipulação de dados
-- Avaliação de modelos com métricas e intervalos de confiança
+ 
+- Manipulação e análise de dados com Pandas, NumPy e SQL
+- Validação de dados e pipelines de ETL
+- Machine Learning, visão computacional e avaliação de modelos
+- OCR, LLMs e processamento de documentos
+- Backend com Python e APIs
 
 ## Contato
 
